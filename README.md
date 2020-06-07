@@ -15,7 +15,7 @@ its a much smaller script now but does the same thing except created within dock
 install ubun
 wget https://raw.githubusercontent.com/HalowTV/Docker/master/install.sh && bash install.sh
  
-
+ip
 
 You can access Organizr here http://url
 You can access OMBI here http://url:3579
